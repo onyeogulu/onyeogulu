@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I love learning and evolving.
 
 
-### Connect with me:
+## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onyeogulu-tochukwu-ba2231178/)
 &nbsp;
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Onyeogulutochukwu@gmil.com)
@@ -21,7 +21,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/morphy_ai)
 
 
-### Languages and Tools:
+## Languages and Tools:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 &nbsp;&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
