@@ -3,13 +3,12 @@
 
 ## I'm a Machine Learning Engineer, transitioning into Data Engineering!!
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my MSc thesis on Computer Vision
 - 🌱 I’m currently learning data engineering and pytorch for computer vision
 - 👯 I’m looking to collaborate on with other data scientist and data engineers and AI experts
 - 🤔 I’m looking for help with transitioning into data engineering
-- 💬 Ask me about anything
+- 💬 Ask me about data analytics, machine learning, computer vision and statistics
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love learning and evolving.
 -->
@@ -22,3 +21,5 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/morphy_ai)
 
 
+### Languages and Tools:
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
