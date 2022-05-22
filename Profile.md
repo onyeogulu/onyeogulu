@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### Connect with me:
-
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/morphy_ai.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/morphy_ai)
-&nbsp;&nbsp;
-[![Twitter URL](https://img.shields.io/LinkedIn/url/https/LinkedIn.com/morphy_ai.svg?style=social&label=Follow%20%40bukotsunikki)](linkedin.com/in/onyeogulu-tochukwu-ba2231178
-)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
 
