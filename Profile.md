@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### Connect with me:
-[![Linkedin]([https://i.stack.imgur.com/gVE0j.png](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(linkedin.com/in/onyeogulu-tochukwu-ba2231178)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(linkedin.com/in/onyeogulu-tochukwu-ba2231178)
 &nbsp;
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
 
