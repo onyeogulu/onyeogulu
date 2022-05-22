@@ -16,12 +16,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/morphy_ai#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/morphy_ai#gh-dark-mode-only)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/morphy_ai.svg?style=social&label=Follow%20%40bukotsunikki)](https://twitter.com/morphy_ai)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/onyeogulu-tochukwu-ba2231178#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/onyeogulu-tochukwu-ba2231178#gh-dark-mode-only)
-
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
