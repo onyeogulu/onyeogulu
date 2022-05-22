@@ -13,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Ilove learning and evolving.
 -->
+
+### Connect with me:
+
+[![website](./img/twitter-light.svg)](https://twitter.com/morphy_ai#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/morphy_ai#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/onyeogulu-tochukwu-ba2231178#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/onyeogulu-tochukwu-ba2231178#gh-dark-mode-only)
