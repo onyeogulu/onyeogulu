@@ -1,5 +1,6 @@
 ### Hi there, I'm Tochukwu - aka Sagacious👋
 
+
 ## I'm a Machine Learning Engineer, transitioning into Data Engineering!!
 
 Here are some ideas to get you started:
@@ -9,9 +10,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on with other data scientist and data engineers and AI experts
 - 🤔 I’m looking for help with transitioning into data engineering
 - 💬 Ask me about anything
-- 📫 How to reach me: [Gmail](onyeogulutochukwu@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Ilove learning and evolving.
+- ⚡ Fun fact: I love learning and evolving.
 -->
 
 ### Connect with me:
