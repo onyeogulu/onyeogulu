@@ -11,7 +11,6 @@
 - 💬 Ask me about data analytics, machine learning, computer vision and statistics
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love learning and evolving.
--->
 
 
 ### Connect with me:
@@ -20,7 +19,6 @@
 [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Onyeogulutochukwu@gmil.com)
 &nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/morphy_ai)
-
 
 
 ### Languages and Tools:
