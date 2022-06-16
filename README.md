@@ -1,5 +1,6 @@
 ## Hi there, I'm Tochukwu - aka Sagacious👋
 
+## I'm a Machine Learning Engineer, transitioning into Data Engineering!!
 
 # 💫About Me :
 🔭 I’m currently working on my MSc thesis on Computer Vision
