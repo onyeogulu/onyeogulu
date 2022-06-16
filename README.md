@@ -3,11 +3,17 @@
 
 # 💫About Me :
 🔭 I’m currently working on my MSc thesis on Computer Vision
+
 🌱 I’m currently learning data engineering and PyTorch for computer vision
+
 👯 I’m looking to collaborate with other data scientists, data engineers and AI experts
+
 🤔 I’m looking for help with transitioning into data engineering
+
 💬 Ask me about data analytics, machine learning, computer vision and statistics
+
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: I love learning and evolving.
 
 ## 🌐Socials
