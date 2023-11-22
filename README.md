@@ -1,9 +1,9 @@
 ## Hi there, I'm Tochukwu - aka Sagacious👋
 
-## I'm a Machine Learning Engineer, transitioning into Data Engineering!!
+## I'm a PhD Student at Oxford Brookes University!!
 
 # 💫About Me :
-🔭 I’m currently working on my MSc thesis on Computer Vision
+🔭 I’m currently working on my PhD thesis on Investigating Morphological Divergence Using AI. 
 
 🌱 I’m currently learning data engineering and PyTorch for computer vision
 
